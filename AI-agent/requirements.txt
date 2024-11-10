@@ -1,0 +1,14 @@
+anthropic
+chromadb
+crewai
+crewai_tools
+langchain
+langchain_ollama
+langchain_openai
+pandas
+pydantic
+python-dotenv
+PyYAML
+streamlit
+streamlit-mermaid
+ollama

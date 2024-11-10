@@ -1,0 +1,6 @@
+./env
+*.pyc
+*.env
+nostr.egg-info/
+.env copy
+relays.test

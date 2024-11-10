@@ -1,0 +1,14 @@
+/env
+.env
+__pycache__
+myenv
+.flox
+.venv/
+shell.nix
+chroma
+
+# generated clarinet files/folders
+working_dir
+clarinet/bin
+clarinet/run-clarinet.sh
+clarinet/clarinet-config
